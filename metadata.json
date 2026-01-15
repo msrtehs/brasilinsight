@@ -1,0 +1,7 @@
+{
+  "name": "Brasil Municípios Insight",
+  "description": "Uma ferramenta avançada para análise de dados municipais brasileiros, incluindo demografia, economia e infraestrutura de cemitérios, utilizando inteligência artificial e dados em tempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
